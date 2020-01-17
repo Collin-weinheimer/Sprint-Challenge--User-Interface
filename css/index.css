@@ -144,3 +144,75 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+#teal {
+    background-color: teal;
+}
+#teal:hover {
+    background-color: gold;
+    color: black;
+}
+#gold{
+    background-color: gold;
+}
+#gold:hover{
+    background-color: cadetblue;
+    color: black;
+}
+#cadetblue{
+    background-color: cadetblue;
+}
+#cadetblue:hover{
+    background-color: coral;
+    color: black;
+}
+#coral{
+    background-color: coral;
+}
+#coral:hover{
+    background-color: crimson;
+    color: black;
+}
+#crimson{
+    background-color: crimson;
+} 
+#crimson:hover{
+    background-color: forestgreen;
+    color: black;
+}
+
+#forestgreen{
+    background-color: forestgreen;
+}
+#forestgreen:hover{
+    background-color: darkorchid;
+    color: black;
+}
+#darkorchid{
+    background-color: darkorchid;
+}
+#darkorchid:hover{
+    background-color: hotpink;
+    color: black;
+}
+#hotpink{
+    background-color: hotpink;
+}
+#hotpink:hover{
+    background-color: indigo;
+    color: black;
+}
+#indigo{
+    background-color: indigo;
+}
+#indigo:hover{
+    background-color: dodgerblue;
+    color: black;
+}
+#dodgerblue{
+    background-color: dodgerblue;
+}
+#dodgerblue:hover{
+    background-color: teal;
+    color: black;
+}
